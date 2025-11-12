@@ -65,4 +65,8 @@ The project follows a **layered architecture** consisting of:
  **Model Deployment** | Flask / FastAPI (for real-time API integration) 
  **Version Control** | Git, GitHub 
 
+
+📜 License
+
+This project is released under the MIT License — feel free to modify and extend it for educational or research purposes.
 ---
